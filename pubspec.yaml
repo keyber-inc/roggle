@@ -8,7 +8,7 @@ environment:
   sdk: ">=2.17.0 <4.0.0"
 
 dependencies:
-  logger: "2.0.2+1"
+  logger: 2.3.0
   meta: ^1.7.0
   stack_trace: ^1.10.0
 
